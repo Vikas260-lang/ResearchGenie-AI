@@ -40,13 +40,13 @@ ResearchGenie AI is a modular multi-agent AI system designed for:
 # Screenshots
 
 ## Dashboard
-![Dashboard](assets/user interface.png)
+![Dashboard](assets/dashboard.png)
 
 ## Knowledge Graph
-![Graph](assets/pro_con.png.png)
+![Graph](assets/trust.png)
 
 ## Trust Analysis
-![Trust](assets/explainable_graph.png)
+![Trust](assets/graph.png)
 
 ---
 
